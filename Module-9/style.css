@@ -1,0 +1,48 @@
+.center_text{
+	text-align: center
+
+}
+
+.p_red{
+	color: red
+
+}
+.p_blue{
+	color: blue
+}
+.p_green{
+	color: #1ada1a
+
+}
+
+.p_big{
+	font-size: 42px
+}
+.p_tiny{
+	font-size: 10px
+}
+
+
+.p_bold{
+font-weight: bold
+}
+.p_font{
+	font-family: fantasy;
+}
+.p_multi{
+	font-size: 30px;
+	color: orange;
+	font-weight: bold
+}
+
+.styledFont{
+	font-family: sans-serif;
+	color: red;
+	text-align: right;
+}
+
+#styledImage{
+	border-width: 5px;
+	border-style: groove;
+	border-color: red;
+}

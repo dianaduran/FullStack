@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jiggle Into JavaScript</title>
+    <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+    <p>Press the buttons to change the box!</p>
+
+    <div id="box" onmouseover="mOver(this)" onmouseout="mOut(this)" style="height:150px; width:150px; background-color:orange; margin:25px">
+    	<p class="text">
+    		Mouse Over Me
+		</p>
+	</div>
+
+    <button id="button1" onclick="grow_function()">Grow</button>
+    <button id="button2" onclick="blue_function()">Blue</button>
+    <button id="button3" onclick="fade_function()">Fade</button>
+    <button id="button4" onclick="reset_function()">Reset</button>
+
+    <script type="text/javascript" src="javascript.js"></script>
+
+</body>
+</html>

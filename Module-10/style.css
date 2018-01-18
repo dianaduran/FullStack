@@ -1,0 +1,29 @@
+body{
+	margin: auto;
+	display: block;
+	width: 50%;
+    height: 50%
+}
+
+div p{
+	
+	font-family: fantasy;
+	color: white;
+	margin: auto;
+	text-align: center;
+	padding: 26%
+}
+
+.grow{
+	height:350px ! important;
+	width:350px ! important;
+}
+
+.blue{
+	background-color: blue !important;
+}
+
+.fade{
+	opacity: 0.5;
+}
+
