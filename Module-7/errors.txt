@@ -4,4 +4,5 @@
 4.- col-sm-6 delete one tag </div>
 5.- missing tag <img>
 6.- panel Random Boo the row missing </div>
-7.- missing tag <li> inside <ol>
+7.- missing tag <li> inside  <ol>
+
